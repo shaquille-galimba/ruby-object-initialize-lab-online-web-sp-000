@@ -5,8 +5,3 @@ class Dog
     @breed = breed
   end
 end
-
-luna = Dog.new("Luna", "Askal")
-puts luna.breed
-luna.breed = "Pomeranian"
-puts luna.breed
