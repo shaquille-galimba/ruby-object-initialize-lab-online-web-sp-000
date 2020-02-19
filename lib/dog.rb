@@ -6,3 +6,4 @@ class Dog
 end
 
 luna = Dog.new("Luna", "Askal")
+puts luna.breed
